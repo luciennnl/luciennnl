@@ -5,7 +5,7 @@ Beyond that, I'm just your average developer fresh out of uni.
 
 I have mainly worked in the area of web development, both as a hobby and professionally.
 Kinda want to call myself a fullstack developer but I have never actually acquired that title at work so nope.🤷
-
+<hr/>
 俺は今、日本での市民権を得ようとしています。
 それ以外には、ただの大学から卒業したばかりの開発者ですよ。
 
