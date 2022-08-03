@@ -12,6 +12,9 @@ Kinda want to call myself a fullstack developer but I have never actually acquir
 大体、Web 開発という専門で働いていました。趣味としても。
 本当に自分のことをフルスタック開発者とを呼びたいが、実際にそんな称号を貰ったことがありません。
 
+<hr/>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciennnl&show_icons=true&theme=radical)
 ## What I use
 **Web dev**
@@ -27,6 +30,11 @@ Kinda want to call myself a fullstack developer but I have never actually acquir
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+**Game Development**
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## Programming Languages 
 
