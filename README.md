@@ -13,7 +13,7 @@ Kinda want to call myself a fullstack developer but I have never actually acquir
 本当に自分のことをフルスタック開発者とを呼びたいが、実際にそんな称号を貰ったことがありません。
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciennnl&show_icons=true&theme=radical)
-### What I use
+## What I use
 **Web dev**
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -28,7 +28,7 @@ Kinda want to call myself a fullstack developer but I have never actually acquir
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-### Programming Languages 
+## Programming Languages 
 
 **Ask me anything**
 
