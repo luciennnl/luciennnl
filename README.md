@@ -16,7 +16,7 @@ Kinda want to call myself a fullstack developer but I have never actually acquir
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciennnl&show_icons=true&theme=radical)
-## What I use
+## What I use/使っている技術
 **Web dev**
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -36,7 +36,7 @@ Kinda want to call myself a fullstack developer but I have never actually acquir
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-## Programming Languages 
+## Programming Languages/プログラミング言語
 
 **Ask me anything**
 
