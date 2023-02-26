@@ -15,7 +15,7 @@ Kinda want to call myself a fullstack developer but I have never actually acquir
 <hr/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciennnl&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marutsuki&show_icons=true&theme=radical)
 ## What I use/使っている技術
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
