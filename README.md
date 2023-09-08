@@ -1,19 +1,8 @@
 ### Heyo, I'm Lucien (´・ω・`) / こんちゃー、ルシアンと申します、よろしく。
 
-I'm an Australian born Chinese trying to get a citizenship in Japan.
-Beyond that, I'm just your average developer fresh out of uni.
+I'm a full stack developer who is able to proficiently deliver high standard code both in the frontend and backend aspects of an application.
 
-I have mainly worked in the area of web development, both as a hobby and professionally.
-Kinda want to call myself a fullstack developer but I have never actually acquired that title at work so nope.🤷
-<hr/>
-俺は今、日本での市民権を得ようとしています。
-それ以外には、ただの大学から卒業したばかりの開発者ですよ。
-
-大体、Web 開発という専門で働いていました。趣味としても。
-本当に自分のことをフルスタック開発者とを呼びたいが、実際にそんな称号を貰ったことがありません。
-
-<hr/>
-
+I mainly work with TypeScript React and Java 17 Spring. Although I sometimes like to experiment with other frameworks and libraries.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marutsuki&show_icons=true&theme=radical)
 ## What I use/使っている技術
