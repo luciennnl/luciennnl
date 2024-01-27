@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucienlu7789/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://luciennnl.melonbreads.com/">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="website"/>
@@ -23,7 +23,7 @@
 
 💼 Currently working as a graduate software engineer
 
-🖍️ Digital art as a hobby
+🖍️ Digital artist outside of work
 
 🎸 Periodically an inspired musician
 
@@ -52,8 +52,27 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
-<hr>
+## Some of my repos
+<div align="center">
+  <div>
+    <span>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marutsuki&repo=maru-game-of-life&theme=react&description_lines_count=2" alt="maru-game-of-life"/>
+    </span>
+    <span>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marutsuki&repo=maru-github-viewer&theme=react&description_lines_count=2" alt="maru-github-viewer"/>
+    </span>
+  </div>
+  <div>
+    <span>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marutsuki&repo=OOP-Design-Patterns&theme=react&description_lines_count=2" alt="OOP-Design-Patterns"/>
+    </span>
+    <span>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marutsuki&repo=HTTP-1.0-server-in-C&theme=react&description_lines_count=2" alt="HTTP-1.0-server-in-Cs"/>
+    </span>
+  </div>
+</div>
 
+## Other stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marutsuki&show_icons=true&theme=react&hide=contribs,issues" alt="GitHub stats"/>
 </div>
